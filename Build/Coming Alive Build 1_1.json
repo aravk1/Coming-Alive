@@ -1,0 +1,16 @@
+{
+"companyName": "TheProductiveReproductive",
+"productName": "Coming alive",
+"productVersion": "2.1.0",
+"dataUrl": "Coming Alive Build 1_1.data.unityweb",
+"wasmCodeUrl": "Coming Alive Build 1_1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Coming Alive Build 1_1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
